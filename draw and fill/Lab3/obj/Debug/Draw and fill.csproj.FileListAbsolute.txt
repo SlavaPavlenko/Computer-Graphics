@@ -1,0 +1,10 @@
+C:\Users\SunRay\Documents\Computer-Graphics\draw and fill\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\SunRay\Documents\Computer-Graphics\draw and fill\Lab3\bin\Debug\Lab3.exe
+C:\Users\SunRay\Documents\Computer-Graphics\draw and fill\Lab3\bin\Debug\Lab3.pdb
+C:\Users\SunRay\Documents\Computer-Graphics\draw and fill\Lab3\obj\Debug\Draw and fill.csprojAssemblyReference.cache
+C:\Users\SunRay\Documents\Computer-Graphics\draw and fill\Lab3\obj\Debug\Draw_and_fill.Form1.resources
+C:\Users\SunRay\Documents\Computer-Graphics\draw and fill\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\SunRay\Documents\Computer-Graphics\draw and fill\Lab3\obj\Debug\Draw and fill.csproj.GenerateResource.cache
+C:\Users\SunRay\Documents\Computer-Graphics\draw and fill\Lab3\obj\Debug\Draw and fill.csproj.CoreCompileInputs.cache
+C:\Users\SunRay\Documents\Computer-Graphics\draw and fill\Lab3\obj\Debug\Lab3.exe
+C:\Users\SunRay\Documents\Computer-Graphics\draw and fill\Lab3\obj\Debug\Lab3.pdb

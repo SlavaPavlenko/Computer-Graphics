@@ -1,0 +1,48 @@
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\DNS\Desktop\Компьютерная графика\Лаболаторная работа 3\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Документы мои\ИВТ СГАУ\ИВТ 6201\Комп. графика\Лаб 3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Документы мои\ИВТ СГАУ\ИВТ 6201\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Документы мои\ИВТ СГАУ\ИВТ 6201\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Документы мои\ИВТ СГАУ\ИВТ 6201\Комп. графика\Лаб 3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Документы мои\ИВТ СГАУ\ИВТ 6201\Комп. графика\Лаб 3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Документы мои\ИВТ СГАУ\ИВТ 6201\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\Документы мои\ИВТ СГАУ\ИВТ 6201\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\Документы мои\ИВТ СГАУ\ИВТ 6201\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Документы мои\ИВТ СГАУ\ИВТ 6201\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\Румия\Desktop\ИВТ 2 КУРС 2016-17\Комп. графика\Лаб 3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Румия\Desktop\ИВТ 2 КУРС 2016-17\Комп. графика\Лаб 3\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Румия\Desktop\ИВТ 2 КУРС 2016-17\Комп. графика\Лаб 3\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Румия\Desktop\ИВТ 2 КУРС 2016-17\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Румия\Desktop\ИВТ 2 КУРС 2016-17\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Румия\Desktop\ИВТ 2 КУРС 2016-17\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Румия\Desktop\ИВТ 2 КУРС 2016-17\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\Румия\Desktop\ИВТ 2 КУРС 2016-17\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Румия\Desktop\ИВТ 2 КУРС 2016-17\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Румия\Desktop\ИВТ 2 КУРС 2016-17\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\ilyas\OneDrive\Рабочий стол\Учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Лаб 3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\ilyas\OneDrive\Рабочий стол\Учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Лаб 3\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\ilyas\OneDrive\Рабочий стол\Учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Лаб 3\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\ilyas\OneDrive\Рабочий стол\Учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\ilyas\OneDrive\Рабочий стол\Учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\ilyas\OneDrive\Рабочий стол\Учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\ilyas\OneDrive\Рабочий стол\Учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\ilyas\OneDrive\Рабочий стол\Учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\ilyas\OneDrive\Рабочий стол\Учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\ilyas\OneDrive\Рабочий стол\Учеба\ИВТ 2 КУРС 2017-18\Комп. графика\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\SunRay\Documents\Computer-Graphics\ИВТ\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\SunRay\Documents\Computer-Graphics\ИВТ\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\SunRay\Documents\Computer-Graphics\ИВТ\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\SunRay\Documents\Computer-Graphics\ИВТ\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\SunRay\Documents\Computer-Graphics\ИВТ\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\SunRay\Documents\Computer-Graphics\ИВТ\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\SunRay\Documents\Computer-Graphics\ИВТ\Лаб 3\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\SunRay\Documents\Computer-Graphics\ИВТ\Лаб 3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\SunRay\Documents\Computer-Graphics\ИВТ\Лаб 3\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\SunRay\Documents\Computer-Graphics\ИВТ\Лаб 3\Lab3\Lab3\bin\Debug\Lab3.pdb
