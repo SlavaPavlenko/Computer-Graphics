@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.edge_textBox = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.alg2_pictureBox = new System.Windows.Forms.PictureBox();
@@ -38,8 +40,6 @@
             this.process_button = new System.Windows.Forms.Button();
             this.original_label = new System.Windows.Forms.Label();
             this.original_pictureBox = new System.Windows.Forms.PictureBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.edge_textBox = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.alg2_pictureBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.alg1_pictureBox)).BeginInit();
@@ -63,22 +63,38 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(645, 242);
+            this.panel1.Size = new System.Drawing.Size(879, 305);
             this.panel1.TabIndex = 0;
+            // 
+            // edge_textBox
+            // 
+            this.edge_textBox.Location = new System.Drawing.Point(507, 264);
+            this.edge_textBox.Name = "edge_textBox";
+            this.edge_textBox.Size = new System.Drawing.Size(91, 20);
+            this.edge_textBox.TabIndex = 11;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(449, 267);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(52, 13);
+            this.label3.TabIndex = 10;
+            this.label3.Text = "Граница:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(485, 28);
+            this.label2.Location = new System.Drawing.Point(671, 28);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 13);
+            this.label2.Size = new System.Drawing.Size(45, 13);
             this.label2.TabIndex = 9;
-            this.label2.Text = "label2";
+            this.label2.Text = "рельеф";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(325, 28);
+            this.label1.Location = new System.Drawing.Point(452, 28);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(107, 13);
             this.label1.TabIndex = 8;
@@ -86,24 +102,24 @@
             // 
             // alg2_pictureBox
             // 
-            this.alg2_pictureBox.Location = new System.Drawing.Point(482, 47);
+            this.alg2_pictureBox.Location = new System.Drawing.Point(668, 47);
             this.alg2_pictureBox.Name = "alg2_pictureBox";
-            this.alg2_pictureBox.Size = new System.Drawing.Size(150, 150);
+            this.alg2_pictureBox.Size = new System.Drawing.Size(200, 200);
             this.alg2_pictureBox.TabIndex = 7;
             this.alg2_pictureBox.TabStop = false;
             // 
             // alg1_pictureBox
             // 
-            this.alg1_pictureBox.Location = new System.Drawing.Point(325, 47);
+            this.alg1_pictureBox.Location = new System.Drawing.Point(452, 47);
             this.alg1_pictureBox.Name = "alg1_pictureBox";
-            this.alg1_pictureBox.Size = new System.Drawing.Size(150, 150);
+            this.alg1_pictureBox.Size = new System.Drawing.Size(200, 200);
             this.alg1_pictureBox.TabIndex = 6;
             this.alg1_pictureBox.TabStop = false;
             // 
             // grey_label
             // 
             this.grey_label.AutoSize = true;
-            this.grey_label.Location = new System.Drawing.Point(171, 28);
+            this.grey_label.Location = new System.Drawing.Point(237, 28);
             this.grey_label.Name = "grey_label";
             this.grey_label.Size = new System.Drawing.Size(85, 13);
             this.grey_label.TabIndex = 5;
@@ -111,15 +127,15 @@
             // 
             // grey_pictureBox
             // 
-            this.grey_pictureBox.Location = new System.Drawing.Point(168, 47);
+            this.grey_pictureBox.Location = new System.Drawing.Point(234, 47);
             this.grey_pictureBox.Name = "grey_pictureBox";
-            this.grey_pictureBox.Size = new System.Drawing.Size(150, 150);
+            this.grey_pictureBox.Size = new System.Drawing.Size(200, 200);
             this.grey_pictureBox.TabIndex = 4;
             this.grey_pictureBox.TabStop = false;
             // 
             // process_button
             // 
-            this.process_button.Location = new System.Drawing.Point(12, 208);
+            this.process_button.Location = new System.Drawing.Point(12, 267);
             this.process_button.Name = "process_button";
             this.process_button.Size = new System.Drawing.Size(93, 23);
             this.process_button.TabIndex = 3;
@@ -140,31 +156,15 @@
             // 
             this.original_pictureBox.Location = new System.Drawing.Point(12, 47);
             this.original_pictureBox.Name = "original_pictureBox";
-            this.original_pictureBox.Size = new System.Drawing.Size(150, 150);
+            this.original_pictureBox.Size = new System.Drawing.Size(200, 200);
             this.original_pictureBox.TabIndex = 0;
             this.original_pictureBox.TabStop = false;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(325, 204);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(52, 13);
-            this.label3.TabIndex = 10;
-            this.label3.Text = "Граница:";
-            // 
-            // edge_textBox
-            // 
-            this.edge_textBox.Location = new System.Drawing.Point(384, 204);
-            this.edge_textBox.Name = "edge_textBox";
-            this.edge_textBox.Size = new System.Drawing.Size(91, 20);
-            this.edge_textBox.TabIndex = 11;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(645, 242);
+            this.ClientSize = new System.Drawing.Size(879, 305);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
             this.Text = "Form1";
